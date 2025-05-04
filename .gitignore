@@ -8,3 +8,20 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+node_modules/
+/target/
+/src-tauri/target/
+/src-tauri/ Cargo.lock
+/src-tauri/Cargo.toml
+/public/build/
+.svelte-kit/
+/dist/
+/out/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+.env
+.env.local
+.env.*.local

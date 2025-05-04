@@ -12,7 +12,14 @@
   "app": {
     "windows": [
       {
-        "title": "gamemanager",
+        "title": "GameManager",
+        "decorations": true,
+        "resizable": true,
+        "fullscreen": true,
+        "maximized": false,
+        "visible": true,
+        "alwaysOnTop": false,
+        "focus": true,
         "width": 800,
         "height": 600
       }
